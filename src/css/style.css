@@ -66,6 +66,11 @@ h1
 
 @media (max-width: 700px)
 {
+    *
+    {
+        font-size: 24px;
+    }
+    
     .container
     {
         width: 70%;
